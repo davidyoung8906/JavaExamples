@@ -1,5 +1,5 @@
 
-public class Tryif {
+public class TrySingleEqualIf {
 
 	/**
 	 * @param args
